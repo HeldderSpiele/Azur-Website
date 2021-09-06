@@ -1,0 +1,236 @@
+
+
+* {
+    box-sizing: border-box;
+  }
+body{
+   /*background-color:rgb(44, 44, 44);*/
+   font-family: 'B612';
+   background-image: url('http://www.pngmagic.com/product_images/blue-background-images-for-websites.jpg' );
+   background-repeat:no-repeat;
+   background-size:  cover;
+  }
+
+
+
+  header {
+ /*   background-color: #666;*/
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+  }
+
+
+  .placeholder-10 {
+    width: 10%;
+  }
+
+  footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+
+
+  @media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
+
+header .flex-container-navbar-top-heading-content:hover {
+    color:rgba(255, 255, 255, 0.596)
+
+}
+   
+
+/*START CSS*/
+
+.start-container-main {
+  width: 100%;
+  height: 500px;
+  background-image: url('../img/mainbannerazur.jpg' );
+  background-repeat:no-repeat;
+  background-size:  cover;
+  margin-bottom: 5%;
+  margin-top: 1%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.start-container-main-content {
+transform: translateX(-36px);
+justify-content: center;
+flex-direction: column;
+align-items: center;
+display: flex;
+}
+
+
+.start-container-main-content-heading {
+font-size: 49px;
+}
+
+
+
+.start-container-main-content-heading-button1 {
+  display: inline-block;
+  padding: 0.75rem 1.25rem;
+  border-radius: 10rem;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  transition: all 0.3s;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  text-decoration: none;
+}
+
+.start-container-main-content-heading-button1 a {
+  color: black;
+  text-decoration: none;
+}
+
+.start-container-main-content-heading-img {
+  width:25; 
+  height: 25;
+
+}
+
+
+/*START CSS END*/
+
+
+
+
+
+
+/* NAVBAR CSS */
+
+
+.flex-container-navbar-top {
+  display: flex;
+  flex-direction: space-evenly;
+  
+  }
+
+  
+
+  .flex-container-navbar-top a {
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 0.15em;
+    display: inline-block;
+    padding: 15px 20px;
+    position: relative;
+  }
+
+
+
+.flex-container-navbar-top-heading-content {
+  cursor: pointer;
+}
+.flexbox-main-model {
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+
+
+
+
+
+
+@media (max-width: 600px) {
+ 
+.flex-container-navbar-top {
+  display: block;
+  }
+
+.flex-container-navbar-top-heading-content {
+  height: 50;
+  width: 50;
+}
+
+
+}
+
+/* NAVBAR CSS ENDING*/
+
+
+
+/* ARTICLE CONTENT CSS*/
+
+
+.article-main-divtag{
+   border-radius: 25px;
+  background: #ccc;
+  padding: 20px;
+  width: 80%;
+  height: 98%;
+  margin-right:auto;
+}
+
+
+  
+#article-main-content-updates {
+  visibility:hidden;
+}
+
+  .main::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+/*ARTICLE CSS ENDING*/
+
+
+
+/* HR LIBRARY*/
+.flexbox-main-model-hr{
+  
+  border: 0;
+  height: 1px;
+  width: 25%;
+  margin: 30px auto;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  background: #39D1B4;
+  border: 2px solid #39D1B4;
+    }
+  
+
+.flexbox-main-rowmodel {
+  display: flex;
+  flex-direction: row;
+}
+  
+.article-main-content {
+ 
+ width: 75%;
+}
+.article-main-divtag {
+  transform: translateX(5%);
+
+
+}
+.article-main-image {
+  border-radius: 40px;
+}
