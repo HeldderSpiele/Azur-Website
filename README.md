@@ -4,7 +4,7 @@
 
 ### 28.8.21: 
 
-- Website Klick [Hier](https://azursupport.000webhostapp.com/) erstellt
+- [Website](https://azursupport.000webhostapp.com/) erstellt
 
 
 ### 29.8.21: 
@@ -37,10 +37,10 @@
 
 - Hover.css Library geadded
 
-- Desgin umgeändert zu flexbox-column
+- Desgin to flexbox-column changed
 
 
 ### 6.9.21:
 
-- Start Section hinzugefügt
+- Start Section added
 
