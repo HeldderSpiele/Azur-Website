@@ -1,46 +1,46 @@
 # Azur-Website
 
-Updates Website:
+## Updates Website:
 
-28.8.21: 
+### 28.8.21: 
 
-| Website https://azursupport.000webhostapp.com/ erstellt
-
-
-29.8.21: 
-
-| Grunddesign festgelegt
+- Website Klick [Hier](https://azursupport.000webhostapp.com/) erstellt
 
 
-30.8.21:
+### 29.8.21: 
 
-| Navgiation Links functions geschrieben
-
-| Artikel zu dem Bereich "Home"
+- Grunddesign festgelegt
 
 
-2.9.21:
+### 30.8.21:
 
-| Logo Entwurf in Scratch
+- Navgiation Links functions geschrieben
 
-
-3.9.21:
-
-| Background gefunden
-
-| Navbar-Top CSS geadded ( cursor etc.)
-
-| Azur Icon designed
+- Artikel zu dem Bereich "Home"
 
 
-4.9.21:
+### 2.9.21:
 
-| Hover.css Library geadded
-
-| Desgin umgeändert zu flexbox-column
+- Logo Entwurf in Scratch
 
 
-6.9.21:
+### 3.9.21:
 
-| Start Section hinzugefügt
+- Background gefunden
+
+- Navbar-Top CSS geadded ( cursor etc.)
+
+- Azur Icon designed
+
+
+### 4.9.21:
+
+- Hover.css Library geadded
+
+- Desgin umgeändert zu flexbox-column
+
+
+### 6.9.21:
+
+- Start Section hinzugefügt
 
